@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Welcome to my blog</title>
+        <link>https://zhongq.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>zq2016727576@icloud.com (Qi Zhong)</managingEditor>
+            <webMaster>zq2016727576@icloud.com (Qi Zhong)</webMaster><lastBuildDate>Sat, 02 Mar 2024 23:25:20 &#43;0800</lastBuildDate>
+            <atom:link href="https://zhongq.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
